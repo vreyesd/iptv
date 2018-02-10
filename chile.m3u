@@ -1,0 +1,93 @@
+#EXTM3U
+#EXTM3U
+#EXTINF:-1 group-title="Chile" , TVN 
+http://mdstrm.com/live-stream-playlist/57a498c4d7b86d600e5461cb.m3u8 
+#EXTINF:-1 group-title="Chile" , Canal 13 
+http://13.live.cdn.cl/13hddesktop/13hd-1250.m3u8 
+#EXTINF:-1 group-title="Chile" , Mega 
+http://mdstrm.com/live-stream-playlist_1500/53d2c1a32640614e62a0e000.m3u8 
+#EXTINF:-1 group-title="Chile" , Chilevisión 
+http://live.hls.http.chv.ztreaming.com/chvhddesktop/chv-desktop.m3u8 
+#EXTINF:-1 group-title="Chile" , La Red 
+http://d28d7tc1ojykcy.cloudfront.net/lared/smil:lared.smil/playlist.m3u8 
+#EXTINF:-1 group-title="Chile" , UCV 
+http://unlimited5-cl.digitalproserver.com/ucvtv/ucvtv.smil/playlist.m3u8 
+#EXTINF:-1 group-title="Chile" , T13 Móvil 
+http://cdn.ztreaming.com/t13vivo3/mobile.m3u8 
+#EXTINF:-1 group-title="Chile" , Mega Noticias 
+http://mdstrm.com/live-stream-playlist/561430ae330428c223687e1e.m3u8 
+#EXTINF:-1 group-title="Chile" , TV Senado 
+http://janus-tv-ply.senado.cl/playlist/stream.m3u8?s=tvsenado-hd 
+#EXTINF:-1 group-title="Chile" , Cámara de Diputados 
+http://camara.03.cl.cdnz.cl/camara19/live/chunklist.m3u8 
+#EXTINF:-1 group-title="Chile" , ADN 
+http://unlimited5-cl.dps.live/adntv/adntv.smil/playlist.m3u8 
+#EXTINF:-1 group-title="Chile" , UesTV 
+http://cl.origin.grupoz.cl/uestv/live/playlist.m3u8 
+#EXTINF:-1 group-title="Chile" ,  
+http://v1.tustreaming.cl:1935/tvautonoma/tvautonoma/playlist.m3u8 
+#EXTINF:-1 group-title="Chile" , Morrovision 
+http://video.crearchile.com:8080/live/mp4:morrovision.mp4/playlist.m3u8 
+#EXTINF:-1 group-title="Chile" , RTC de Iquique 
+http://cl.streaminghd.cl:80/cristian285/cristian285/playlist.m3u8 
+#EXTINF:-1 group-title="Chile" , UCV Gran Valparaíso 
+http://wow2.cl.digitalproserver.com/ucvtv2/ucvtv2vivo/ucvtv2.smil/chunklist_w870498386_b1428000.m3u8 
+#EXTINF:-1 group-title="Chile" , Canal 2 de San Antonio 
+http://video.crearchile.com:8080/live/canal2.mp4/playlist.m3u8 
+#EXTINF:-1 group-title="Chile" , TV Maule 
+http://sietransdemos.com//tvmaule.m3u8 
+#EXTINF:-1 group-title="Chile" , Canal 9 Bío Bío 
+http://unlimited6-cl.dps.live/c9/c9.smil/c9/livestream1/chunks.m3u8 
+#EXTINF:-1 group-title="Chile" , Canal 33 Temuco 
+http://190.107.176.55:1935/live/canal-33/playlist.m3u8 
+#EXTINF:-1 group-title="Chile" , Canal 2 Quellón 
+http://wow2.cl.digitalproserver.com/tvquellon/tvquellonvivo/tvquellon.smil/playlist.m3u8 
+#EXTINF:-1 group-title="Chile" , TVRed Punta Arenas 
+http://69.164.193.177:1935/live/myStream/master.m3u8 
+#EXTINF:-1 group-title="Chile" , Niu TV 
+http://cl.origin.grupoz.cl/niutv/smil:live.smil/playlist.m3u8 
+#EXTINF:-1 group-title="Chile" , Arica TV 
+http://wow2.cl.digitalproserver.com/aricatv/aricatvvivo/aricatv.smil/chunklist_w1256972144_b848000.m3u8 
+#EXTINF:-1 group-title="Chile" , TV 8 Concepción 
+http://movilstream.digitalproserver.com/tv8/tv8vivo/tv8.smil/playlist.m3u8 
+#EXTINF:-1 group-title="Chile" , Canal 38 Carnaval 
+http://wow2.cl.digitalproserver.com/carnavaltv/carnavaltvvivo/mp4:livestream2/playlist.m3u8 
+#EXTINF:-1 group-title="Chile" , Sexta Visión 
+http://cl.streaminghd.cl/carlos132/carlos132/playlist.m3u8 
+#EXTINF:-1 group-title="Chile" , Inet TV 
+http://wow2.cl.digitalproserver.com/inet2/inet2vivo/inet2.smil/chunklist_w1511777064_b828000.m3u8 
+#EXTINF:-1 group-title="Chile" , Antofagasta TV 
+http://wow2.cl.digitalproserver.com/atv/atvvivo/atv.smil/chunklist_w1499498801_b1428000.m3u8 
+#EXTINF:-1 group-title="Chile" , ChiloéTV 
+http://streaminglivehd.com:1935/8038/8038/playlist.m3u8 
+#EXTINF:-1 group-title="Chile" , TVO San Vicente 
+http://movilstream.digitalproserver.com/tvo/tvovivo/tvo.smil/playlist.m3u8 
+#EXTINF:-1 group-title="Chile" , Contivisión 
+http://movilstream.digitalproserver.com/contivisionhd/contivisionhdvivo/contivisionhd.smil/playlist.m3u8 
+#EXTINF:-1 group-title="Chile" , TV Centro 
+http://wow2.cl.digitalproserver.com/centrotv/centrotvvivo/centrotv.smil/playlist.m3u8 
+#EXTINF:-1 group-title="Chile" , CampusTv 
+http://unlimited6-cl.dps.live/campustv/campustv.smil/campustv/livestream1/chunks.m3u8 
+#EXTINF:-1 group-title="Chile" , Canal 5 Linares 
+http://v1.tustreaming.cl:1935/canal5/canal5/playlist.m3u8 
+#EXTINF:-1 group-title="Chile" , Canal 21 Chillán 
+http://v1.tustreaming.cl:1935/canal21ch/canal21ch/chunklist_w178632426.m3u8 
+#EXTINF:-1 group-title="Chile" , ITV Patagonia 
+http://movilstream.digitalproserver.com/itv/itvvivo/mp4:livestream1/playlist.m3u8 
+#EXTINF:-1 group-title="Chile" , VTV Aconcagua 
+http://cdn.streamingmedia.cl:1935/live/vtv2/livestream3/playlist.m3u8 
+#EXTINF:-1 group-title="Chile" , VTV Viña del Mar 
+http://cdn.streamingmedia.cl:1935/live/vtvvina/playlist.m3u8 
+#EXTINF:-1 group-title="Chile" , ThemaTV 
+http://wow2.cl.digitalproserver.com/thema/themavivo/thema.smil/chunklist_w1551564427_b848000.m3u8 
+#EXTINF:-1 group-title="Chile" , Televida HD 
+http://unlimited5-cl.dps.live/tlvida/tlvida.smil/tlvida/livestream1/chunks.m3u8 
+#EXTINF:-1 group-title="Chile" , Gracia TV 
+http://v1.tustreaming.cl:1935/graciatv/graciatv/chunklist_w681690932.m3u8 
+#EXTINF:-1 group-title="Chile" , FM Hot TV HD 
+http://evo.eltelon.com:1935/live/fm-hot-tv/playlist.m3u8 
+#EXTINF:-1 group-title="Chile" , Carolina TV 
+http://unlimited6-cl.dps.live/carolinatv/carolinatv.smil/carolinatv/livestream2/chunks.m3u8 
+#EXTINF:-1 group-title="Chile" , Contivisión Musica 
+http://movilstream.digitalproserver.com/contivisionmusica/contivisionmusicavivo/contivisionmusica.smil/chunklist_w205005636_b1428000.m3u8 
+
