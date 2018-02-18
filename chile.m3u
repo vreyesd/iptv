@@ -3,7 +3,7 @@
 #EXTINF:-1 group-title="Chile" , TVN 
 http://mdstrm.com/live-stream-playlist/57a498c4d7b86d600e5461cb.m3u8 
 #EXTINF:-1 group-title="Chile" , Canal 13 
-http://13.live.cdn.cl/13hddesktop/13hd-1250.m3u8 
+http://13.live.cdn.cl/13hdmobile/13hd-mobile.m3u8
 #EXTINF:-1 group-title="Chile" , Mega 
 http://mdstrm.com/live-stream-playlist_1500/53d2c1a32640614e62a0e000.m3u8 
 #EXTINF:-1 group-title="Chile" , Chilevisión 
@@ -17,7 +17,7 @@ http://cdn.ztreaming.com/t13vivo3/mobile.m3u8
 #EXTINF:-1 group-title="Chile" , Mega Noticias 
 http://mdstrm.com/live-stream-playlist/561430ae330428c223687e1e.m3u8
 #EXTINF:-1 group-title="Chile" , CNN Chile 
-http://unlimited1-us.dps.live/cnn/cnn.smil/playlist.m3u8
+http://unlimited7-cl.dps.live/cnn/cnn.smil/playlist.m3u8
 #EXTINF:-1 group-title="Chile" , TV Senado 
 http://janus-tv-ply.senado.cl/playlist/stream.m3u8?s=tvsenado-hd 
 #EXTINF:-1 group-title="Chile" , Cámara de Diputados 
