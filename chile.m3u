@@ -4,7 +4,7 @@ https://mdstrm.com/live-stream-playlist/5aa03fe47d246901a936111c.m3u8
 #EXTINF:-1 group-title="Chile" , Mega 
 http://chileiptv.cl/emgt.php 
 #EXTINF:-1 group-title="Chile" , Chilevisión hd
-http://mi.chv.cl/playlist/stream.m3u8?s=hd
+https://mdstrm.com/live-stream-playlist/5cc0855ddf297e136a586daa.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="Chile" , La Red 
 http://d28d7tc1ojykcy.cloudfront.net/lared/smil:lared.smil/playlist.m3u8 
 #EXTINF:-1 group-title="Chile" , UCV 
