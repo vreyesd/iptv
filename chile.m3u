@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 group-title="Chile" , TVN 
-https://mdstrm.com/live-stream-playlist/5aa03fe47d246901a936111c.m3u8
+https://mdstrm.com/live-stream-playlist/5aa03fe47d246901a936111c.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="Chile" , Mega 
 http://chileiptv.cl/emgt.php 
 #EXTINF:-1 group-title="Chile" , Chilevisión hd
